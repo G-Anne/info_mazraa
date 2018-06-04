@@ -2,7 +2,7 @@
 
 [![](https://images.unsplash.com/photo-1502923061100-eb3c21273a5a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=90517ac5a32c63419e3fd8f23dc6713d&auto=format&fit=crop&w=3450&q=80)](https://www.youtube.com/watch?v=4exjbFvnGkk)
 
-# Mazraa is the first coperative in the Middle East to join the ThreeFold Grid 
+# Mazraa - First coperative in the Middle East to join the ThreeFold Grid 
 
 ## Mission 
 
