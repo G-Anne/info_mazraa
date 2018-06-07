@@ -13,7 +13,7 @@ For additional information, please refer to our official channels:
 
 Website: [Mazraa.io](https://www.mazraa.io/) 
 
-Chat: (https://chat.grid.tf/mazraa/channels/town-square)
+Chat: [News](https://chat.grid.tf/mazraa/channels/town-square)
 
 ## ThreeFold Info
 
