@@ -6,12 +6,16 @@
 
 ## Mission 
 
-To support the growth of the ThreeFold Token a digital currency backed by neutral, sustainable and decentralised internet capacity in order to empower humanity with a decentralised internet platform that is affordable and accessable. 
+To support the growth of the ThreeFold Token; a digital currency backed by neutral, sustainable and decentralised internet capacity in order to empower humanity with an internet platform that is affordable and accessable to all. 
 
 
 For additional information, please refer to our official channels: 
 
 Website: [Mazraa.io](https://www.mazraa.io/) 
+
+Chat: (https://chat.grid.tf/mazraa/channels/town-square)
+
+## ThreeFold Info
 
 ThreeFold Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](https://docs.grid.tf/threefold/info) 
 
