@@ -6,8 +6,10 @@
 
 ## Mission
 
-To support the growth of the ThreeFold Token; a digital currency backed by neutral, sustainable and decentralised internet capacity in order to empower humanity with an internet platform that is affordable and accessable to all.
+To support the growth of the ThreeFold Foundation; a responsible internet backed by neutral, energy efficient and decentralised internet capacity in order to empower humanity with an internet platform that is affordable and accessable to all.
 
+## About 
+Mazraa is a founding farm and cooperative on the ThreeFold Grid. 
 
 For additional information, please refer to our official channels:
 
@@ -15,7 +17,7 @@ WIKI: [Mazraa Wilki](https://threefoldfoundation.github.io/info_mazraa/)
 
 Website: [Mazraa.io](https://www.mazraa.io/) 
 
-Chat: [News](https://chat.grid.tf/mazraa/channels/town-square)
+Contact: [Mail](connect@mazraa.io)
 
 ## ThreeFold Info
 
