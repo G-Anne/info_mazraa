@@ -13,7 +13,7 @@ Mazraa is a founding farm and cooperative on the ThreeFold Grid.
 
 For additional information, please refer to our official channels:
 
-Wiki: [Mazraa Wilki](https://threefoldfoundation.github.io/info_mazraa/)
+Wiki: [Mazraa Wiki](https://threefoldfoundation.github.io/info_mazraa/)
 
 Website: [Mazraa.io](https://www.mazraa.io/) 
 
