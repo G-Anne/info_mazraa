@@ -25,4 +25,4 @@ ThreeFold Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](http
 
 ThreeFold Foundation Wiki: [https://threefoldfoundation.github.io/info_foundation/](https://threefoldfoundation.github.io/info_foundation/)
 
-Whitepaper pdf: [threefoldtoken.com/pdf/tf_whitepaper.pdf](https://threefoldtoken.com/pdf/tf_whitepaper.pdf)
+ThreeFold website: [https://threefold.io/](https://threefold.io/)
