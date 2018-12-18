@@ -63,3 +63,7 @@ Email: [info@mazraa.io](info@mazraa.io)
 
 Location: [Adara ME, Warehouse 88, Al Jaddaf Gate 2, Dubai](https://goo.gl/maps/afQWw2cXSb92)
 
+Days of operation: Sunday - Thursday
+
+Work hours: 9AM - 5:30PM
+
