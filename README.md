@@ -1,6 +1,6 @@
 # info_mazraa
 
-[![](https://images.unsplash.com/photo-1502923061100-eb3c21273a5a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=90517ac5a32c63419e3fd8f23dc6713d&auto=format&fit=crop&w=3450&q=80)](https://www.mazraa.io/)
+[![](https://bullsoncryptostreet.com/wp-content/uploads/2018/07/blockchain-technology_fullwidth.jpg)](https://www.mazraa.io/)
 
 # Mazraa is a founding digital capacity farm and cooperative on the ThreeFold Grid.
 
