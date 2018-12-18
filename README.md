@@ -59,5 +59,5 @@ ThreeFold website: [https://threefold.io/](https://threefold.io/)
 
 # Contacts
 
-[Location](https://goo.gl/maps/afQWw2cXSb92)
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d451.2183840666988!2d55.33595992265624!3d25.21175075811412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f67f4dcabc9bf%3A0x7d4ea83373633296!2sAdara+ME!5e0!3m2!1sen!2sae!4v1545150878578" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+Location [Adara ME, Warehouse 88/89, Al Jaddaf Drydocks, Dubai](https://goo.gl/maps/afQWw2cXSb92)
+
