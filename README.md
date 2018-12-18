@@ -59,5 +59,6 @@ ThreeFold website: [https://threefold.io/](https://threefold.io/)
 
 # Contacts
 
-Location [Adara ME, Warehouse 88/89, Al Jaddaf Drydocks, Dubai](https://goo.gl/maps/afQWw2cXSb92)
+Email: [info@mazraa.io](info@mazraa.io)
+Location: [Adara ME, Warehouse 88, Al Jaddaf Gate 2, Dubai](https://goo.gl/maps/afQWw2cXSb92)
 
