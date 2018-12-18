@@ -15,6 +15,16 @@ Mazraa supports ThreeFold Foundation's mission to create a Responsible Internet 
 ## Data Capacity
 Mazraa's capacity pool was launch on March 2017 in Dubai, United Arab Emirates and was officially the first active internet capacity farmer on the network.  In the early first quarter of 2019, developers will be able to access Mazraa's data center capacity to host decentralized application development. We believe that with support from global capacity farmers, developers, and the community, we will collaboratively build a responsible internet and digital economy for all.
 
+## Purchase Capacity
+
+In order to reserve capacity TFT (ThreeFold Tokens) are required. 
+Anyone can purchase them 
+1. Directly from mazraa.io by sending us an email request: info@mazraa.com
+2. On [BTC-Alpha exchange](https://btc-alpha.com)
+3. On [BITMEEX.pro](http://bitmeex.pro)
+
+Please take a look at our [wiki](https://threefoldfoundation.github.io/info_tokens/#/how_to_buy/buy_from_exchange)
+
 ## ThreeFold Technology
 ThreeFold technology enables a decentralized, blockchain powered edge cloud which is 100% democratized. It's based on open source software that creates neutral, energy efficient and private capacity that's 100% autonomously managed and self-healing. The three technology components are ZERO-OS a simple and efficient operating system, ZERO-ROBOT which autonomously manages the Zero-OS Grid to deliver a self-healing endlessly scalable internet infrastructure. ZERO-CHAIN a blockchain technology that can be used to create any responsible digital medium of exchange which is green, faster, cost-effective and scalable. We use it to create a responsible internet for all. 
 
