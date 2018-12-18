@@ -33,3 +33,13 @@ ThreeFold Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](http
 ThreeFold Foundation Wiki: [https://threefoldfoundation.github.io/info_foundation/](https://threefoldfoundation.github.io/info_foundation/)
 
 ThreeFold website: [https://threefold.io/](https://threefold.io/)
+
+# Team
+
+[Adnan Fatayerji](https://www.linkedin.com/in/adnansf/)
+[Georges Georgiou](https://www.linkedin.com/in/georges-georgiou/)
+[Olivia Jurado](https://www.linkedin.com/in/oliviajurado/)
+[Gloria Anne Claracay Cabaron](https://www.linkedin.com/in/gloria-anne-c-9b327b38/)
+[Jenevie de Mesa](https://www.linkedin.com/in/jenevie-de-mesa-757a13102/)
+[Abdul Rehman Rajput](https://www.linkedin.com/in/arrajput/)
+[Ahmed Siddique](https://www.linkedin.com/in/ahmed-siddique-a4126a98/)
