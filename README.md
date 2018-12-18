@@ -32,7 +32,9 @@ For additional information, please refer to our official channels:
 
 Wiki: [Mazraa Wiki](https://threefoldfoundation.github.io/info_mazraa/)
 
-Website: [Mazraa.io](https://www.mazraa.io/) 
+Website: [Mazraa.io](https://www.mazraa.io/)
+
+Datacenter Status Dashboard: [status.mazraa.io](http://status.mazraa.io) (Coming Soon!)
 
 Contact: [Mail](connect@mazraa.io)
 
