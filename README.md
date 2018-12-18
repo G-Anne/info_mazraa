@@ -1,8 +1,8 @@
 # info_mazraa
 
-[![](https://images.unsplash.com/photo-1502923061100-eb3c21273a5a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=90517ac5a32c63419e3fd8f23dc6713d&auto=format&fit=crop&w=3450&q=80)](https://www.youtube.com/watch?v=4exjbFvnGkk)
+[![](https://images.unsplash.com/photo-1502923061100-eb3c21273a5a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=90517ac5a32c63419e3fd8f23dc6713d&auto=format&fit=crop&w=3450&q=80)](https://www.mazraa.io/)
 
-# Mazraa - Is one of the first internet capacity providers in the Middle East to join the ThreeFold platfrom.
+# Mazraa is a founding digital capacity farm and cooperative on the ThreeFold Grid.
 
 ## Mission
 
@@ -10,6 +10,7 @@ To support the expansion of the ThreeFold Grid; a responsible internet backed by
 
 ## About 
 Mazraa is a founding farm and cooperative on the ThreeFold Grid. 
+We at Mazraa support ThreeFold Foundation's mission to create a Responsible Internet for All, one that is accessible, affordable and energy efficient. We are the first founding farmer on the network and also contribute to ThreeFold's global adoption by hosting development capacity for ThreeFold Tech developers, supporting the promotion and growth of the global community through contributed marketing resources and funding. We believe it's time for the internet to have a major upgrade for the people and our planet.
 
 For additional information, please refer to our official channels:
 
