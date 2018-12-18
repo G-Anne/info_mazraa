@@ -1,26 +1,35 @@
 # info_mazraa
 
-[![](https://images.unsplash.com/photo-1502923061100-eb3c21273a5a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=90517ac5a32c63419e3fd8f23dc6713d&auto=format&fit=crop&w=3450&q=80)](https://www.youtube.com/watch?v=4exjbFvnGkk)
+[![](https://bullsoncryptostreet.com/wp-content/uploads/2018/07/blockchain-technology_fullwidth.jpg)](https://www.mazraa.io/)
 
-# Mazraa - First capacity cooperative in the Middle East to join the ThreeFold Grid
+# Mazraa Cooperative is a founding digital capacity farmer on the ThreeFold Grid.
 
 ## Mission
 
-To support the growth of the ThreeFold Token; a digital currency backed by neutral, sustainable and decentralised internet capacity in order to empower humanity with an internet platform that is affordable and accessable to all.
+To support the expansion of the ThreeFold Grid; a responsible internet backed by neutral, energy efficient and decentralised internet capacity that empowers humanity with a responsible internet platform that is affordable and accessable to all.
 
+## About 
+Mazraa is a founding farm and cooperative on the ThreeFold Grid. 
+Mazraa supports ThreeFold Foundation's mission to create a Responsible Internet for All, one that is accessible, affordable and energy efficient. We are the first founding farmer on the network and also contribute to ThreeFold's global adoption by hosting development capacity for ThreeFold Tech developers, supporting the promotion and growth of the global community through contributed marketing resources and funding. We believe it's time for the internet to have a major upgrade for the people and our planet.
+
+## Data Capacity
+Mazraa's capacity pool was launch on March 2017 in Dubai, United Arab Emirates and was officially the first active internet capacity farmer on the network.  In the early first quarter of 2019, developers will be able to access Mazraa's data center capacity to host decentralized application development. We believe that with support from global capacity farmers, developers, and the community, we will collaboratively build a responsible internet and digital economy for all.
+
+## ThreeFold Technology
+ThreeFold technology enables a decentralized, blockchain powered edge cloud which is 100% democratized. It's based on open source software that creates neutral, energy efficient and private capacity that's 100% autonomously managed and self-healing. The three technology components are ZERO-OS a simple and efficient operating system, ZERO-ROBOT which autonomously manages the Zero-OS Grid to deliver a self-healing endlessly scalable internet infrastructure. ZERO-CHAIN a blockchain technology that can be used to create any responsible digital medium of exchange which is green, faster, cost-effective and scalable. We use it to create a responsible internet for all. 
 
 For additional information, please refer to our official channels:
 
-WIKI: [Mazraa Wilki](https://threefoldfoundation.github.io/info_mazraa/)
+Wiki: [Mazraa Wiki](https://threefoldfoundation.github.io/info_mazraa/)
 
 Website: [Mazraa.io](https://www.mazraa.io/) 
 
-Chat: [News](https://chat.grid.tf/mazraa/channels/town-square)
+Contact: [Mail](connect@mazraa.io)
 
 ## ThreeFold Info
 
 ThreeFold Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](https://docs.grid.tf/threefold/info)
 
-ThreeFold Foundation wiki: [https://threefoldfoundation.github.io/info_foundation/](https://threefoldfoundation.github.io/info_foundation/)
+ThreeFold Foundation Wiki: [https://threefoldfoundation.github.io/info_foundation/](https://threefoldfoundation.github.io/info_foundation/)
 
-Whitepaper pdf: [threefoldtoken.com/pdf/tf_whitepaper.pdf](https://threefoldtoken.com/pdf/tf_whitepaper.pdf)
+ThreeFold website: [https://threefold.io/](https://threefold.io/)
