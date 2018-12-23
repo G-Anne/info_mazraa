@@ -17,11 +17,11 @@ Mazraa's capacity pool was launch on March 2017 in Dubai, United Arab Emirates a
 
 ## Purchase Capacity
 
-In order to reserve capacity TFT (ThreeFold Tokens) are required. 
+In order to reserve capacity TFT (IT Capacity Units) are required. 
 Anyone can purchase them 
 1. Directly from mazraa.io by sending us an email request: info@mazraa.com
-2. On [BTC-Alpha exchange](https://btc-alpha.com)
-3. On [BITMEEX.pro](http://bitmeex.pro)
+
+
 
 Please take a look at our [wiki](https://threefoldfoundation.github.io/info_tokens/#/how_to_buy/buy_from_exchange)
 
