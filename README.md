@@ -69,5 +69,5 @@ Work hours: 9AM - 5:30PM
 
 # Repository Owners:
 
-* [Nickolay Babenko](https://github.com/nbabenko) 
+* [Nickolay Babenko](https://github.com/nbabenko), telegram: [@nbabenko](http://t.me/nbabenko)
 * [Adnan Fatayerji](https://github.com/AdnanFatayerji)
