@@ -67,6 +67,8 @@ Days of operation: Sunday - Thursday
 
 Work hours: 9AM - 5:30PM
 
+Contact phone: +971 4 370 6036
+
 # Repository Owners:
 
 * [Nickolay Babenko](https://github.com/nbabenko), telegram: [@nbabenko](http://t.me/nbabenko)
