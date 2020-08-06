@@ -6,7 +6,7 @@
 
 ## Mission
 
-To support the expansion of the ThreeFold Peer to Peer Cloud; a responsible internet backed by neutral, energy efficient and decentralised internet capacity that empowers humanity with a responsible internet platform that is affordable and accessable to all.
+To support the expansion of the ThreeFold Peer to Peer Cloud; a responsible internet backed by neutral, energy efficient and decentralised internet capacity that empowers humanity with a responsible internet platform that is affordable and accessible to all.
 
 ## About 
 Mazraa is a founding farm and cooperative on the ThreeFold Grid. 
